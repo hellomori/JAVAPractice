@@ -34,6 +34,8 @@ public class CalculateController {
             ans =  num1 * num2;
         } else if(ope.equals("÷")){
             ans = num1 / num2;
+        } else if(ope.equals("%")){
+            ans = num1 % num2;
         }
         fdat.setAns(ans);
     }
