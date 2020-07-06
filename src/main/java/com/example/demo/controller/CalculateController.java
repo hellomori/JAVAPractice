@@ -37,6 +37,6 @@ public class CalculateController {
         } else if(ope.equals("%")){
             ans = num1 % num2;
         }
-        fdat.setAns(ans); 
+        fdat.setAns(ans);
     }
 }
