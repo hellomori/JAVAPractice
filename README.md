@@ -1,6 +1,5 @@
 # JAVAPractice
 
-
 ## 概要
 JAVAの参考書を元に「Spring Boot」を活用して、四則演算のみの簡素な計算アプリを作成しました。
 
